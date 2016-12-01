@@ -1,0 +1,31 @@
+---
+layout: page
+title: "Herramientas"
+description: "Todo lo que puede serte útil"
+header-img: "img/tools.JPG"
+tool: [["Silphroad", "Tiene un buen mapa de la zona", "https://thesilphroad.com/"],
+    ["Pokeassistant", "Un montón de utilidades", "https://pokeassistant.com/"],
+    ["PokemonGoMap", "Mapa con gimnasios y pokestops", "https://www.pokemongomap.info/"],
+    ["Reddit", "Aquí es donde se cocinan las teorías", "https://www.reddit.com/r/pokemongo/"],
+    ["Niantic", "Actualizaciones oficiales de Pokémon Go", "http://pokemongo.nianticlabs.com/es/post/"],
+    ["Trainer Tips", "Uno de los mejores canales de Pokémon Go", "https://www.youtube.com/channel/UCrtyNMe3xtv3CLg5QR78HzQ"]
+]
+---
+<div class="container-fluid">
+    <div class="alert alert-info text-center">
+        <span class="glyphicon glyphicon-info-sign"></span>
+        Es muy posible que añada herramientas propias a esta sección</div>
+</div>
+
+<div class="container-fluid">
+    {% for post in page.tool %}
+        <a class="col-md-4" href="{{ post[2] }}">
+            <div class="well">
+                    <h4>{{ post[0] }}</h4>
+                    <span>{{ post[1] }}</span>
+            </div>
+        </a>
+    {% endfor %}
+</div>
+
+<!--- col-sm-4 --->
