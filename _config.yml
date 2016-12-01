@@ -4,8 +4,8 @@ header-img: img/home-bg.jpg
 email: pokemongo.lpgc@gmail.com
 copyright_name: "LPGC Pokestop"
 description: "LPGC Pokestop"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
+baseurl: "https://pokemongolpgc.github.io/Blog/"
+url: "https://pokemongolpgc.github.io/Blog/"
 # twitter_username: SBootstrap
 github_username:  PokemonGoLpgc
 email_username:  pokemongo.lpgc@gmail.com
