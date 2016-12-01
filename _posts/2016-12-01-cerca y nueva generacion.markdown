@@ -2,7 +2,7 @@
 layout:     post
 title:      "2ª Generación y función cerca"
 subtitle:   "Cuanto falta?, queda mucho?, cuanto falta?..."
-date:       2016-11-29 17:00:00
+date:       2016-12-01 17:00:00
 author:     "Pokémon Go LPGC Blog"
 header-img: "img/blog/2ndGen.JPG"
 comments: true
