@@ -1,18 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <generator uri="http://jekyllrb.com" version="3.0.1">Jekyll</generator>
-<link href="https://pokemongolpgc.github.io/blog/https://pokemongolpgc.github.io/blog//feed.xml" rel="self" type="application/atom+xml" />
-<link href="https://pokemongolpgc.github.io/blog/https://pokemongolpgc.github.io/blog//" rel="alternate" type="text/html" />
-<updated>2016-12-02T12:01:14+00:00</updated>
-<id>https://pokemongolpgc.github.io/blog/https://pokemongolpgc.github.io/blog//</id>
+<link href="https://pokemongolpgc.github.io/blog//feed.xml" rel="self" type="application/atom+xml" />
+<link href="https://pokemongolpgc.github.io/blog//" rel="alternate" type="text/html" />
+<updated>2016-12-03T18:54:03+00:00</updated>
+<id>https://pokemongolpgc.github.io/blog//</id>
 <subtitle>LPGC Pokestop</subtitle>
 <entry>
+<title>La octava migración y Lapras en el obelisco</title>
+<link href="https://pokemongolpgc.github.io/blog//2016/12/03/octava-migracion/" rel="alternate" type="text/html" title="La octava migración y Lapras en el obelisco" />
+<published>2016-12-03T17:00:00+00:00</published>
+<updated>2016-12-03T17:00:00+00:00</updated>
+<id>https://pokemongolpgc.github.io/blog//2016/12/03/octava-migracion</id>
+<content type="html" xml:base="https://pokemongolpgc.github.io/blog//2016/12/03/octava-migracion/">&lt;h2 class=&quot;section-heading&quot;&gt;La octava migración&lt;/h2&gt;
+&lt;p&gt;
+El 1 de Diciembre Niantic realizo otra migración, lo que quiere decir
+ que los nidos dejaron de generar a los mismos pokémons. 
+Aquí los nidos que producian pokémons que no eran comunes son los han cambiado,
+ ahora puede que produzcan más sandshrews y pokémons comunes, que salgan otros pokémons
+  interesantes o que nidos donde no aparecía nada importante ahora tengan pokemons raros.   
+&lt;/p&gt;
+&lt;p&gt;
+Estas migraciones ocurren cada 2 semanas, por lo que la siguiente será el 15 de diciembre.
+Este periodo entre migraciones lleva más de un mes siguiendo este patrón, y 
+&lt;a href=&quot;https://www.reddit.com/r/TheSilphRoad/comments/52al85/so_the_pokemon_migration_is_ever_2000000_seconds/&quot;&gt;
+se han medido hasta los segundos entre ellas&lt;/a&gt;
+&lt;/p&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Nuevos avistamientos&lt;/h2&gt;
+&lt;p&gt;
+Sin embargo, no parece que tengamos un gran cambio, solo el comentado anteriormente.
+ Como mucho volverán a aparecer nidoran en vez de sandshrews. 
+&lt;/p&gt;
+&lt;p&gt;
+Ahora San Telmo se ha convertido en un nido de Oddish y han
+ aparecido dratinis en sitios donde antes no salían.
+También ha aparecido un Dragonite en la catedral de Santa Ana y 2 Lapras 
+ por la zona del obelisco. Uno el día 1 y el otro el 2 de Diciembre y no
+  en el mismo nido, sino en nidos cercanos.
+  Esperemos que sigan migrando Lapras desde Japon.
+En la avenida maritima, cerca de la comisaría se genero un Dewgong.
+&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;center-block&quot; src=&quot;{{ site.baseurl }}/img/blog/lapras.jpg&quot; style=&quot;height:15em&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;
+ Con 2 Lapras y un Dewgong podríamos pensar que por ser invierno aparecen 
+ más pokémons de tipo hielo, pero nadie a comentado nada en reddit
+  ni hay un evento en marcha. 
+  Pero si que es posible que el próximo evento, que sería el de Navidad 
+  sea algo parecido, así que no perdais la esperanza de conseguir vuestro Lapras.
+&lt;/p&gt;
+&lt;p&gt;
+También ha aparecido un Vaporeon cerca de la fuente luminosa. 
+Es posible que se hayan aumentado la generación de pokémons raros de tipo agua.
+Con suerte seguirán apareciendo estas 2 semanas.
+&lt;/p&gt;
+
+</content>
+<author>
+<name>Pokémon Go LPGC Blog</name>
+</author>
+<summary>La octava migraciónEl 1 de Diciembre Niantic realizo otra migración, lo que quiere decir que los nidos dejaron de generar a los mismos pokémons. Aquí los nidos que producian pokémons que no eran comunes son los han cambiado, ahora puede que produzcan más sandshrews y pokémons comunes, que salgan otros pokémons  interesantes o que nidos donde no aparecía nada importante ahora tengan pokemons raros.   Estas migraciones ocurren cada 2 semanas, por lo que la siguiente será el 15 de diciembre.Este periodo entre migraciones lleva más de un mes siguiendo este patrón, y se han medido hasta los segundos entre ellasNuevos avistamientosSin embargo, no parece que tengamos un gran cambio, solo el comentado anteriormente. Como mucho volverán a aparecer nidoran en vez de sandshrews. Ahora San Telmo se ha convertido en un nido de Oddish y han aparecido dratinis en sitios donde antes no salían.También ha aparecido un Dragonite en la catedral de Santa Ana y 2 Lapras  por la zona del obelisco. Uno el día 1 y el otro el 2 de Diciembre y no  en el mismo nido, sino en nidos cercanos.  Esperemos que sigan migrando Lapras desde Japon.En la avenida maritima, cerca de la comisaría se genero un Dewgong. Con 2 Lapras y un Dewgong podríamos pensar que por ser invierno aparecen  más pokémons de tipo hielo, pero nadie a comentado nada en reddit  ni hay un evento en marcha.   Pero si que es posible que el próximo evento, que sería el de Navidad   sea algo parecido, así que no perdais la esperanza de conseguir vuestro Lapras.También ha aparecido un Vaporeon cerca de la fuente luminosa. Es posible que se hayan aumentado la generación de pokémons raros de tipo agua.Con suerte seguirán apareciendo estas 2 semanas.</summary>
+</entry>
+<entry>
 <title>2ª Generación y función cerca</title>
-<link href="https://pokemongolpgc.github.io/blog/https://pokemongolpgc.github.io/blog//2016/12/01/cerca-y-nueva-generacion/" rel="alternate" type="text/html" title="2ª Generación y función cerca" />
+<link href="https://pokemongolpgc.github.io/blog//2016/12/01/cerca-y-nueva-generacion/" rel="alternate" type="text/html" title="2ª Generación y función cerca" />
 <published>2016-12-01T17:00:00+00:00</published>
 <updated>2016-12-01T17:00:00+00:00</updated>
-<id>https://pokemongolpgc.github.io/blog/https://pokemongolpgc.github.io/blog//2016/12/01/cerca y nueva generacion</id>
-<content type="html" xml:base="https://pokemongolpgc.github.io/blog/https://pokemongolpgc.github.io/blog//2016/12/01/cerca-y-nueva-generacion/">&lt;h2 class=&quot;section-heading&quot;&gt;Función cerca&lt;/h2&gt;
+<id>https://pokemongolpgc.github.io/blog//2016/12/01/cerca y nueva generacion</id>
+<content type="html" xml:base="https://pokemongolpgc.github.io/blog//2016/12/01/cerca-y-nueva-generacion/">&lt;h2 class=&quot;section-heading&quot;&gt;Función cerca&lt;/h2&gt;
 &lt;p&gt;
 En la &lt;a href=&quot;http://pokémongo.nianticlabs.com/es/post/nearby-nov2016-2/&quot;&gt;página web de Niantic&lt;/a&gt; 
 podemos ver que la función cerca que muestra la parada más cercana al pokémon podrá ser usada en más lugares.
@@ -81,11 +135,11 @@ Onix, Zubat, Oddish, Eevee, Poliwag, Horsea, Scyther, Porygon(suerte XD), Chanse
 </entry>
 <entry>
 <title>Buscando a Ditto</title>
-<link href="https://pokemongolpgc.github.io/blog/https://pokemongolpgc.github.io/blog//2016/11/30/buscando-a-ditto/" rel="alternate" type="text/html" title="Buscando a Ditto" />
+<link href="https://pokemongolpgc.github.io/blog//2016/11/30/buscando-a-ditto/" rel="alternate" type="text/html" title="Buscando a Ditto" />
 <published>2016-11-30T17:00:00+00:00</published>
 <updated>2016-11-30T17:00:00+00:00</updated>
-<id>https://pokemongolpgc.github.io/blog/https://pokemongolpgc.github.io/blog//2016/11/30/buscando a ditto</id>
-<content type="html" xml:base="https://pokemongolpgc.github.io/blog/https://pokemongolpgc.github.io/blog//2016/11/30/buscando-a-ditto/">&lt;h2 class=&quot;section-heading&quot;&gt;Buscando a ditto&lt;/h2&gt;
+<id>https://pokemongolpgc.github.io/blog//2016/11/30/buscando a ditto</id>
+<content type="html" xml:base="https://pokemongolpgc.github.io/blog//2016/11/30/buscando-a-ditto/">&lt;h2 class=&quot;section-heading&quot;&gt;Buscando a ditto&lt;/h2&gt;
 &lt;p&gt;
 Hace poco Niantic introdujo a ditto en el juego.
 Suele aparecer como pidgeys y rattatas, pero aquí hay demasiados pocos.
@@ -124,11 +178,11 @@ Si encuentras un magikarp que se te resiste, es probable que sea un ditto.
 </entry>
 <entry>
 <title>Hola a todos</title>
-<link href="https://pokemongolpgc.github.io/blog/https://pokemongolpgc.github.io/blog//2016/11/29/hola-a-todos/" rel="alternate" type="text/html" title="Hola a todos" />
+<link href="https://pokemongolpgc.github.io/blog//2016/11/29/hola-a-todos/" rel="alternate" type="text/html" title="Hola a todos" />
 <published>2016-11-29T12:00:00+00:00</published>
 <updated>2016-11-29T12:00:00+00:00</updated>
-<id>https://pokemongolpgc.github.io/blog/https://pokemongolpgc.github.io/blog//2016/11/29/hola a todos</id>
-<content type="html" xml:base="https://pokemongolpgc.github.io/blog/https://pokemongolpgc.github.io/blog//2016/11/29/hola-a-todos/">&lt;h2 class=&quot;section-heading&quot;&gt;Bienvenidos&lt;/h2&gt;
+<id>https://pokemongolpgc.github.io/blog//2016/11/29/hola a todos</id>
+<content type="html" xml:base="https://pokemongolpgc.github.io/blog//2016/11/29/hola-a-todos/">&lt;h2 class=&quot;section-heading&quot;&gt;Bienvenidos&lt;/h2&gt;
 &lt;p&gt;
 No se muy bien por qué he hecho este blog. Quizás sea por crear algo que pueda serte útil.
 Puede que sea por conoceros un poco más, aunque me hayáis quitado tantos gimnasios.
