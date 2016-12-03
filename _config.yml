@@ -4,9 +4,9 @@ header-img: img/home-bg.jpg
 email: pokemongo.lpgc@gmail.com
 copyright_name: "LPGC Pokestop"
 description: "LPGC Pokestop"
-baseurl: "https://pokemongolpgc.github.io/blog/"
+baseurl: ""
 url: "https://pokemongolpgc.github.io/blog/"
-# twitter_username: SBootstrap
+twitter_username: LpgcGo
 github_username:  PokemonGoLpgc
 email_username:  pokemongo.lpgc@gmail.com
 
