@@ -52,7 +52,7 @@ de Pokémon<br>
 En canarias el único Starbucks se encuentra en el aeropuerto de Gran Canaria,
 pero como no va a tener parada propia, no podremos conseguirlo.</p>
 
-<img src="/img/blog/starmucks.png" />
+<img src="{{ site.baseurl }}/img/blog/starmucks.png" />
 
 <h2>Segunda generación</h2>
 
@@ -76,7 +76,7 @@ regional, Girafarigpor pertenecer geográficamente a
 África. Así que ya podremos presumir de pokémon al ir a otros países. No es
 algo confirmado, pero si una teoría bastante apoyada.</p>
 
-<img src="/img/blog/girafari.gif" />
+<img src="{{ site.baseurl }}/img/blog/girafari.gif" />
 
 <p>Puedes contribuir a ayudar a otros jugadores añadiendo los
 nidos que encuentres al mapa de TheSilphroad.</p>
