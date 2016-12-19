@@ -233,6 +233,50 @@ hr.small {
     font-size: 30px;
   }
 }
+@keyframes christmasLights {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+.intro-header #christmasDecoration {
+  bottom: 0;
+  margin-bottom: 0;
+  background-image: url("/img/christmas%20images/christmas%20lights.png");
+}
+.intro-header #christmasDecoration:after {
+  background: url("/img/christmas%20images/light2.png");
+  animation-delay: 0.5s;
+}
+.intro-header #christmasDecoration:before {
+  background: url("/img/christmas%20images/light1.png");
+}
+.intro-header #christmasDecoration:after,
+.intro-header #christmasDecoration:before {
+  content: "a";
+  color: transparent;
+  left: 0;
+  top: 0;
+  float: left;
+  animation-name: christmasLights;
+  animation-direction: alternate;
+  animation-duration: 0.5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  background-blend-mode: luminosity;
+}
+.intro-header #christmasDecoration,
+.intro-header #christmasDecoration:before,
+.intro-header #christmasDecoration:after {
+  background-size: contain;
+  background-position: center bottom;
+  background-repeat: repeat-x;
+  height: 4em;
+  margin-top: -4em;
+  width: 100%;
+}
 .post-preview > a {
   color: #404040;
 }
@@ -422,4 +466,8 @@ img::-moz-selection {
 }
 body {
   webkit-tap-highlight-color: #0085a1;
+}
+#tipWell {
+  position: sticky;
+  top: 0;
 }

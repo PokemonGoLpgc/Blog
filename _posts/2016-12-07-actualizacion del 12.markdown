@@ -71,7 +71,7 @@ La siguiente migración es le 28 de Diciembre y esta si que me parece una fecha 
 Da tiempo para meter algún evento y luego la segunda generación, para después dejar un tiempo sin
  hacer nada para que volvamos a completar la pokedex.<br />
 Es probable que el evento incluya caramelos para que con la segunda generación
- podamos evolucionar algunos pokémons como Magmar.<br />
+ podamos evolucionar algunos pokémons como Seadra .<br />
 Incluso quizás acerquen la fecha hasta el 24, para que comience con las navidades.
 </p>
 

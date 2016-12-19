@@ -255,6 +255,62 @@ hr.small {
 			}
 		}
 	}
+
+	// Navigation
+	@keyframes christmasLights{
+		from{
+			opacity: 1;
+		}
+		to{
+			opacity: 0;
+		}
+	}
+
+
+	#christmasDecoration {
+		bottom: 0;
+		margin-bottom: 0;
+		background-image: url("/img/christmas%20images/christmas%20lights.png");
+	}
+
+	#christmasDecoration:after{
+		background: url("/img/christmas%20images/light2.png");
+		animation-delay: 0.5s;
+	}
+
+	#christmasDecoration:before{
+		background: url("/img/christmas%20images/light1.png");
+	}
+
+	#christmasDecoration:after,
+	#christmasDecoration:before
+	{
+		content: "a";
+		color: transparent;
+		left:0;
+		top:0;
+		float:left;
+		animation-name:christmasLights;
+		animation-direction: alternate;
+		animation-duration: 0.5s;
+		animation-iteration-count: infinite;
+		animation-timing-function: linear;
+		background-blend-mode: luminosity;
+	}
+
+
+
+	#christmasDecoration,
+	#christmasDecoration:before,
+	#christmasDecoration:after{
+		background-size: contain;
+		background-position: center bottom;
+		background-repeat: repeat-x;
+		height: 4em;
+		margin-top: -4em;
+		width: 100%;
+	}
+
 }
 
 // Post Preview Pages
@@ -489,4 +545,9 @@ img::-moz-selection {
 
 body {
 	webkit-tap-highlight-color: @brand-primary;
+}
+
+#tipWell{
+	position: sticky;
+	top:0;
 }
