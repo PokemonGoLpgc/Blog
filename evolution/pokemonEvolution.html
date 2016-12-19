@@ -1,0 +1,100 @@
+---
+layout: tool
+title: "PokemonEvolution"
+description: "Todo lo que puede serte útil"
+header-img: "img/tools.JPG"
+---
+{% assign lvl = page.url | append:'X' | split:'/' | size %}
+{% capture relative %}{% for i in (3..lvl) %}../{% endfor %}{% endcapture %}
+
+<link href="{{ relative }}css/morris.css">
+<div class="container-fluid" id="evolutionContent">
+    <div class="row content">
+        <nav class="navbar navbar-default">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="#">Evolution</a>
+                </div>
+                <ul class="nav navbar-nav">
+                    <li><a href="/evolution/index.html">Caramelos</a></li>
+                    <li class="active"><a href="#">Pokémon</a></li>
+                    <li><a href="#">Evolucionar</a></li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+    <div class="row content">
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="well" >
+                    <h4>Mostrar</h4>
+                    <label class="checkbox" style="margin-left: 1em">
+                        <input type="checkbox" checked="true"
+                               onload="toggleCandyClass('noEvolution',this.checked)"
+                               onchange="toggleCandyClass('noEvolution',this.checked)"
+                        >Sin evolución</label>
+                    <label class="checkbox"  style="margin-left: 1em">
+                        <input type="checkbox" checked="true"
+                               onload="toggleCandyClass('noEvolution',this.checked)"
+                               onchange="toggleCandyClass('noCandy',this.checked)"
+                        >Sin aparecer</label>
+                    <label class="checkbox"  style="margin-left: 1em">
+                        <input type="checkbox" checked="true"
+                               onload="toggleCandyClass('noEvolution',this.checked)"
+                               onchange="toggleCandyClass('noCandy',this.checked)"
+                        >Sin caramelos</label>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="well">
+                    <h4>Opciones</h4>
+                    <button type="button" class="btn btn-default">Exportar</button>
+                    <button type="button" class="btn btn-default">Importar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row content">
+        <div class="col-sm-4 sidenav">
+            <div id="tipWell">
+                WHOLA<br />
+                Caramelos: 20<br />
+                Caramelos usados:2<br />
+                Se puede evolucionar: 3 pidgeys<br />
+            </div>
+        </div>
+        <div class="col-sm-8">
+            <h2>Pokemon</h2>
+            <div class="table-responsive">
+                <table id="candyTable" class="table">
+                    <thead>
+                    <tr>
+                        <th>Pokemon</th>
+                        <th>Cantidad</th>
+                        <th>Evolucionar</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-7">
+            <div class="well">
+                <h4>Analiticas</h4>
+                <div id="candyGraph"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="{{ relative }}js/raphael.min.js"></script>
+<script src="{{ relative }}js/morris.min.js"></script>
+<script src="{{ relative }}js/stickyfill.min.js"></script>
+<script src="{{ relative }}js/evolution.js"></script>
+<script>
+    init(pokemon);
+</script>
+
