@@ -3,6 +3,7 @@ layout: tool
 title: "Evolution"
 description: "Todo lo que puede serte útil"
 header-img: "img/tools.JPG"
+hideInMenu: true
 ---
 {% assign lvl = page.url | append:'X' | split:'/' | size %}
 {% capture relative %}{% for i in (3..lvl) %}../{% endfor %}{% endcapture %}
