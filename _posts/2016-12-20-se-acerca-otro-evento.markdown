@@ -2,7 +2,7 @@
 layout:     post
 title:      "Se acerca otro evento"
 subtitle:   "2ª generación casi confirmada"
-date:       2016-12-07 00:00:00
+date:       2016-12-20 00:00:00
 author:     "Pokémon Go LPGC Blog"
 header-img: "img/blog/titleBigUpdate.png"
 comments: true
