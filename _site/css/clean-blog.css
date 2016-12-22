@@ -249,6 +249,7 @@ hr.small {
 .intro-header #christmasDecoration:after {
   background: url("../img/christmas%20images/light2.png");
   animation-delay: 0.5s;
+  margin-top: -4em;
 }
 .intro-header #christmasDecoration:before {
   background: url("../img/christmas%20images/light1.png");
@@ -274,7 +275,6 @@ hr.small {
   background-position: center bottom;
   background-repeat: repeat-x;
   height: 4em;
-  margin-top: -4em;
   width: 100%;
 }
 .post-preview > a {
