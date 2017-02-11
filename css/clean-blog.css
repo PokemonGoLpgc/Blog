@@ -277,6 +277,29 @@ hr.small {
   height: 4em;
   width: 100%;
 }
+@keyframes lureAnimation {
+  from {
+    background-position-y: 0;
+    background-position-x: 0;
+  }
+  50% {
+    background-position-x: 200px;
+  }
+  to {
+    background-position-y: 488px;
+    background-position-x: 263px;
+  }
+}
+.intro-header .valentineDecoration {
+  background-image: url("../img/valentine's images/lure.png");
+  background-repeat: repeat;
+  background-blend-mode: soft-light;
+  animation-name: lureAnimation;
+  animation-duration: 8s;
+  animation-iteration-count: infinite;
+  animation-timing-function: cubic-bezier(0.69, 0.46, 0.21, 0.5);
+  z-index: 0;
+}
 .post-preview > a {
   color: #404040;
 }
